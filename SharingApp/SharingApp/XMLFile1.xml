@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:c9="http://channel9.msdn.com">
+  <channel>
+    <title>Channel 9</title>
+    <atom:link rel="self" type="application/rss+xml" href="https://channel9.msdn.com/Feeds/RSS"></atom:link>
+    <itunes:summary>Channel 9 keeps you up to date with the latest news and behind the scenes info from Microsoft that developers love to keep up with. From LINQ to SilverLight â€“ Watch videos and hear about all the cool technologies coming and the people behind them.</itunes:summary>
+    <itunes:author>Microsoft</itunes:author>
+    <itunes:subtitle></itunes:subtitle>
+    <image>
+      <url>https://sec.ch9.ms/content/feedimage.png</url>
+      <title>Channel 9</title>
+      <link>https://channel9.msdn.com/</link>
+    </image>
+    <itunes:image href="https://sec.ch9.ms/content/feedimage.png"></itunes:image>
+    <itunes:category text="Technology"></itunes:category>
+    <description>Channel 9 keeps you up to date with the latest news and behind the scenes info from Microsoft that developers love to keep up with. From LINQ to SilverLight â€“ Watch videos and hear about all the cool technologies coming and the people behind them.</description>
+    <link>https://channel9.msdn.com/</link>
+    <language>en</language>
+    <pubDate>Sun, 06 Mar 2016 14:30:29 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2016 14:30:29 GMT</lastBuildDate>
+    <generator>Rev9</generator>
+    <item>
+      <title>Day 1: James Whittaker&#39;s Rise of the Machines | TechNet VC 2016</title>
+      <description><![CDATA[<p>James Whittaker is an energetic and passionate software executive with substantial engineering, research, writing and speaking credentials. His background spans government, academia, a successful start-up and leadership roles in top technology corporations. He's shipped major software titles at IBM, Microsoft and Google; he's published dozens of peer-reviewed research papers and authored 5 award-winning and best-selling technical books. He has won &quot;best-of show&quot; awards at conferences across the globe. James is well known for his visionary leadership and his passion for hard core engineering practices.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Session:RSSView:70fa06eca010424699f2a5b8017c4a44">]]></description>
+      <comments>https://channel9.msdn.com/Events/TechNetVirtualConference/TechNetVC2016/Day-1-James-Whittakers-Rise-of-the-Machines</comments>
+      <itunes:summary>James Whittaker is an energetic and passionate software executive with substantial engineering, research, writing and speaking credentials. His background spans government, academia, a successful start-up and leadership roles in top technology corporations. He&#39;s shipped major software titles at IBM, Microsoft and Google; he&#39;s published dozens of peer-reviewed research papers and authored 5 award-winning and best-selling technical books. He has won &amp;quot;best-of show&amp;quot; awards at conferences across the globe. James is well known for his visionary leadership and his passion for hard core engineering practices. </itunes:summary>
+      <itunes:duration>2197</itunes:duration>
+      <link>https://channel9.msdn.com/Events/TechNetVirtualConference/TechNetVC2016/Day-1-James-Whittakers-Rise-of-the-Machines</link>
+      <pubDate>Tue, 01 Mar 2016 00:37:29 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Events/TechNetVirtualConference/TechNetVC2016/Day-1-James-Whittakers-Rise-of-the-Machines</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/b45a/2c473498-11cc-43c5-9bac-18edb8deb45a/TechnetVC01JamesWhittaker_220.jpg" height="220" width="165"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northcentralus.blob.core.windows.net/mfupload/70fa06eca010424699f2a5b8017c4a44/TechnetVC0105.mp4" expression="full" duration="2197" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/b45a/2c473498-11cc-43c5-9bac-18edb8deb45a/TechnetVC01JamesWhittaker.mp3" expression="full" duration="2197" fileSize="35155146" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/b45a/2c473498-11cc-43c5-9bac-18edb8deb45a/TechnetVC01JamesWhittaker.mp4" expression="full" duration="2197" fileSize="109108265" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/b45a/2c473498-11cc-43c5-9bac-18edb8deb45a/TechnetVC01JamesWhittaker_high.mp4" expression="full" duration="2197" fileSize="916016283" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/b45a/2c473498-11cc-43c5-9bac-18edb8deb45a/TechnetVC01JamesWhittaker_mid.mp4" expression="full" duration="2197" fileSize="516397390" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/b45a/2c473498-11cc-43c5-9bac-18edb8deb45a/TechnetVC01JamesWhittaker.mp4" length="109108265" type="video/mp4"></enclosure>
+      <dc:creator>Rick Claus, Mary Jo Foley, James Whittaker</dc:creator>
+      <itunes:author>Rick Claus, Mary Jo Foley, James Whittaker</itunes:author>
+      <slash:comments>4</slash:comments>
+    </item>
+    <item>
+      <title>ASP.NET Core Middleware Basics | Web Hack Wednesday</title>
+      <description><![CDATA[<p>Martin and Martin look into ASP.NET Core and delve into startup.cs, how it works and how to compose your application pipeline.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:ae92680e666a4528acada5bd0110bd84">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Web-Hack-Wednesday/ASPNET-Core-Middleware-Basics</comments>
+      <itunes:summary>Martin and Martin look into ASP.NET Core and delve into startup.cs, how it works and how to compose your application pipeline. </itunes:summary>
+      <itunes:duration>1979</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Web-Hack-Wednesday/ASPNET-Core-Middleware-Basics</link>
+      <pubDate>Wed, 02 Mar 2016 19:16:10 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Web-Hack-Wednesday/ASPNET-Core-Middleware-Basics</guid>
+      <media:thumbnail url="https://f.ch9.ms/thumbnail/be7e175f-c549-4404-b653-48f1ce22015b.jpg" height="56" width="100"></media:thumbnail>
+      <media:thumbnail url="https://f.ch9.ms/thumbnail/15d16d6e-108d-4785-87cd-293465289d67.jpg" height="124" width="220"></media:thumbnail>
+      <media:thumbnail url="https://f.ch9.ms/thumbnail/650e1fdb-1123-4eb1-8024-ad60ce53a132.jpg" height="288" width="512"></media:thumbnail>
+      <media:thumbnail url="https://f.ch9.ms/thumbnail/e5d514ad-d49c-4cbd-91ed-35b432f0851c.jpg" height="544" width="960"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northerneurope.blob.core.windows.net/mfupload/ae92680e666a4528acada5bd0110bd84/WebHackWednesdayMiddleware2ndMarch2016.mp4" expression="full" duration="1979" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/e906/e04aaa4b-e836-45db-ac94-a6e7d484e906/WebHackWednesdayMiddleware2ndMarch2016.mp3" expression="full" duration="1979" fileSize="31676321" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/e906/e04aaa4b-e836-45db-ac94-a6e7d484e906/WebHackWednesdayMiddleware2ndMarch2016.mp4" expression="full" duration="1979" fileSize="85712656" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/e906/e04aaa4b-e836-45db-ac94-a6e7d484e906/WebHackWednesdayMiddleware2ndMarch2016_high.mp4" expression="full" duration="1979" fileSize="666717850" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/e906/e04aaa4b-e836-45db-ac94-a6e7d484e906/WebHackWednesdayMiddleware2ndMarch2016_mid.mp4" expression="full" duration="1979" fileSize="254493651" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/e906/e04aaa4b-e836-45db-ac94-a6e7d484e906/WebHackWednesdayMiddleware2ndMarch2016.mp4" length="85712656" type="video/mp4"></enclosure>
+      <dc:creator>thebeebs, Martin Kearn</dc:creator>
+      <itunes:author>thebeebs, Martin Kearn</itunes:author>
+      <slash:comments>3</slash:comments>
+      <wfw:commentRss>https://channel9.msdn.com/Shows/Web-Hack-Wednesday/ASPNET-Core-Middleware-Basics/RSS</wfw:commentRss>
+      <category>aspnet</category>
+      <category>Web</category>
+    </item>
+    <item>
+      <title>Day 1: Jeffrey Snover on Thriving through the Transition | TechNet VC 2016</title>
+      <description><![CDATA[<p><strong>Jeffrey Snover</strong>- <em>Technical Fellow, Enterprise Cloud Group</em></p><p>Jeffrey Snover is a Technical Fellow at Microsoft and the Lead Architect for the Enterprise Cloud Group.</p><p>Snover is the inventor of <strong>Windows PowerShell,</strong> an object-based distributed automation engine, scripting language, and command line shell. Snover joined Microsoft in 1999 as divisional architect for the Management and Services Division, providing technical direction across Microsoft's management technologies and products.</p><p>Snover has over 30 years of industry experience with a focus on management technologies and solutions. He was an architect in the office of the CTO at Tivoli and a development manager at NetView. He has worked also as a consulting engineer and development manager at DEC, where he led various network and systems management projects.</p><p>Snover held 8 patents prior to joining Microsoft, and has registered over 30 patents since. He is a frequent speaker at industry and research conferences on a variety of management and language topics.</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Session:RSSView:6589f8794b7c467b998da5b80129f02a">]]></description>
+      <comments>https://channel9.msdn.com/Events/TechNetVirtualConference/TechNetVC2016/JeffreySnoverThrivingthroughTransition</comments>
+      <itunes:summary>Jeffrey Snover- Technical Fellow, Enterprise Cloud Group Jeffrey Snover is a Technical Fellow at Microsoft and the Lead Architect for the Enterprise Cloud Group. Snover is the inventor of Windows PowerShell, an object-based distributed automation engine, scripting language, and command line shell. Snover joined Microsoft in 1999 as divisional architect for the Management and Services Division, providing technical direction across Microsoft&#39;s management technologies and products. Snover has over 30 years of industry experience with a focus on management technologies and solutions. He was an architect in the office of the CTO at Tivoli and a development manager at NetView. He has worked also as a consulting engineer and development manager at DEC, where he led various network and systems management projects. Snover held 8 patents prior to joining Microsoft, and has registered over 30 patents since. He is a frequent speaker at industry and research conferences on a variety of management and language topics. </itunes:summary>
+      <itunes:duration>2081</itunes:duration>
+      <link>https://channel9.msdn.com/Events/TechNetVirtualConference/TechNetVC2016/JeffreySnoverThrivingthroughTransition</link>
+      <pubDate>Tue, 01 Mar 2016 00:38:34 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Events/TechNetVirtualConference/TechNetVC2016/JeffreySnoverThrivingthroughTransition</guid>
+      <media:thumbnail url="https://f.ch9.ms/thumbnail/3d786018-16f0-462a-83f1-4b4876e661a7.jpg" height="220" width="165"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northcentralus.blob.core.windows.net/mfupload/6589f8794b7c467b998da5b80129f02a/TechnetVCDay0102.mp4" expression="full" duration="2081" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/623d/92378d61-ae01-4cd2-8af1-5da5a122623d/TechnetVCDay0102.mp3" expression="full" duration="2081" fileSize="33301962" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/623d/92378d61-ae01-4cd2-8af1-5da5a122623d/TechnetVCDay0102.mp4" expression="full" duration="2081" fileSize="106051134" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/623d/92378d61-ae01-4cd2-8af1-5da5a122623d/TechnetVCDay0102_high.mp4" expression="full" duration="2081" fileSize="931055783" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/623d/92378d61-ae01-4cd2-8af1-5da5a122623d/TechnetVCDay0102_mid.mp4" expression="full" duration="2081" fileSize="511062777" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/623d/92378d61-ae01-4cd2-8af1-5da5a122623d/TechnetVCDay0102.mp4" length="106051134" type="video/mp4"></enclosure>
+      <dc:creator>Jeffrey Snover, Rick Claus, Mary Jo Foley</dc:creator>
+      <itunes:author>Jeffrey Snover, Rick Claus, Mary Jo Foley</itunes:author>
+      <slash:comments>3</slash:comments>
+    </item>
+    <item>
+      <title>Tuesdays with Corey: Hello from down under - mate!  | Tuesdays With Corey</title>
+      <description><![CDATA[<p>Corey Sanders, Director of Program Management on the Microsoft Azure&nbsp;Compute team was on tour in the southern hemisphere visiting Australia with the CAT team.Quick shout out to the teams and customers from Australia! &nbsp;</p><p>We're looking for NEW locations to come visit (with Rick this time) so let us know on #AzureTwC.</p><p>Don't forget - we're always looking for Suggestions and Questions here in the comments section OR via twitter <a href="https://twitter.com/search?f=realtime&amp;q=%23AzureTwC&amp;src=typd" target="_blank">#AzureTwC</a>. You never know - you might make it to an upcoming episode and be a virtual star of the show - like THIS one!</p><p>Post any questions, topic ideas or general conversation here in the comments OR online on via Twitter.</p><p><a class="twitter-follow-button" href="http://twitter.com/CoreySandersWA" target="_blank">Follow @CoreySandersWA</a></p><p><a class="twitter-follow-button" href="http://twitter.com/RicksterCDN" target="_blank">Follow @RicksterCDN</a>&nbsp;</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Entry:RSSView:c13f81f5b9f74008add7a5bc0108988e">]]></description>
+      <comments>https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Hello-from-down-under-mate</comments>
+      <itunes:summary>Corey Sanders, Director of Program Management on the Microsoft Azure Compute team was on tour in the southern hemisphere visiting Australia with the CAT team.Quick shout out to the teams and customers from Australia!   We&#39;re looking for NEW locations to come visit (with Rick this time) so let us know on #AzureTwC. Don&#39;t forget - we&#39;re always looking for Suggestions and Questions here in the comments section OR via twitter #AzureTwC. You never know - you might make it to an upcoming episode and be a virtual star of the show - like THIS one! Post any questions, topic ideas or general conversation here in the comments OR online on via Twitter. Follow @CoreySandersWA Follow @RicksterCDN  </itunes:summary>
+      <itunes:duration>240</itunes:duration>
+      <link>https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Hello-from-down-under-mate</link>
+      <pubDate>Tue, 01 Mar 2016 22:23:20 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Shows/Tuesdays-With-Corey/Tuesdays-with-Corey-Hello-from-down-under-mate</guid>
+      <media:thumbnail url="http://vide...eo/mp4" medium="video">
+        </media:content>
+        <media:content url="https://streamingdx.blob.core.windows.net/asset-b62dd430-e800-430c-9d9c-1c97cdeee8d7/ArchiveTopBitrate_video_3500000.mp4" expression="full" duration="2101" fileSize="1" type="video/mp4" medium="video"></media:content>
+        </media:group>
+        <enclosure url="http://video.ch9.ms/ch9/c4f8/acec4a36-21aa-45fb-ada7-14dc382cc4f8/KeynoteSatya.mp4" length="92667297" type="video/mp4"></enclosure>
+        <dc:creator>Satya Nadella</dc:creator>
+        <itunes:author>Satya Nadella</itunes:author>
+        <slash:comments>0</slash:comments>
+      </item>
+    <item>
+      <title>A Different Kind of Toy Story | Codemash 2016</title>
+      <description><![CDATA[<p>With the intent of giving back to the community, Brian Sherwin had the idea to run a &quot;CodeMash Factory&quot; session after regular conference hours. Following our company vision to &quot;Empower every person and every organization on the planet to achieve more&quot; Microsoft hosted a session to rebuild toys for children with disabilities. Brian met some students from the College of Engineering at Ohio State University that regularly run workshops for adapting toys and partnered with them to bring the workshop to CodeMash.</p><p>During the 2-hour workshop, <strong>150 attendees were able to retrofit 62 toys</strong> with adapters for special capability switches that will allow children to interact with previously inaccessible toys. These toys were then donated to Katelyn's Kloset, a 501(c)3 organization to provide special needs children adapted toys and fun powered mobility that fit their developmental needs. The toys were donated to families 1/24/2016.</p><ul><li>Katelyn's Krusade/Katelyn's Kloset -&nbsp;<a href="http://katelynskrusade.org">http://katelynskrusade.org</a></li><li>OSU Toy Adaptation Program -&nbsp;<a href="http://u.osu.edu/osutap/">http://u.osu.edu/osutap/</a></li></ul><p>Read the full story here: <a href="http://briansherwin.com/blog/2016/02/a-different-kind-of-toy-story/">http://briansherwin.com/blog/2016/02/a-different-kind-of-toy-story/</a></p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Session:RSSView:86e9608ad20e4c328c34a5b601308364">]]></description>
+      <comments>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2016/A-Different-Kind-of-Toy-Story</comments>
+      <itunes:summary>With the intent of giving back to the community, Brian Sherwin had the idea to run a &amp;quot;CodeMash Factory&amp;quot; session after regular conference hours. Following our company vision to &amp;quot;Empower every person and every organization on the planet to achieve more&amp;quot; Microsoft hosted a session to rebuild toys for children with disabilities. Brian met some students from the College of Engineering at Ohio State University that regularly run workshops for adapting toys and partnered with them to bring the workshop to CodeMash. During the 2-hour workshop, 150 attendees were able to retrofit 62 toys with adapters for special capability switches that will allow children to interact with previously inaccessible toys. These toys were then donated to Katelyn&#39;s Kloset, a 501(c)3 organization to provide special needs children adapted toys and fun powered mobility that fit their developmental needs. The toys were donated to families 1/24/2016. Katelyn&#39;s Krusade/Katelyn&#39;s Kloset - http://katelynskrusade.orgOSU Toy Adaptation Program - http://u.osu.edu/osutap/Read the full story here: http://briansherwin.com/blog/2016/02/a-different-kind-of-toy-story/ </itunes:summary>
+      <itunes:duration>1063</itunes:duration>
+      <link>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2016/A-Different-Kind-of-Toy-Story</link>
+      <pubDate>Wed, 24 Feb 2016 19:52:01 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2016/A-Different-Kind-of-Toy-Story</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/749f/e581e559-c0e0-4cd5-9741-5d51ddc8749f/ADifferentKindofToyStory_220.jpg" height="220" width="165"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northcentralus.blob.core.windows.net/mfupload/86e9608ad20e4c328c34a5b601308364/ADifferentKindofToyStory.mp4" expression="full" duration="1063" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/749f/e581e559-c0e0-4cd5-9741-5d51ddc8749f/ADifferentKindofToyStory.mp3" expression="full" duration="1063" fileSize="17012298" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/749f/e581e559-c0e0-4cd5-9741-5d51ddc8749f/ADifferentKindofToyStory.mp4" expression="full" duration="1063" fileSize="66838031" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/749f/e581e559-c0e0-4cd5-9741-5d51ddc8749f/ADifferentKindofToyStory_high.mp4" expression="full" duration="1063" fileSize="939117106" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/749f/e581e559-c0e0-4cd5-9741-5d51ddc8749f/ADifferentKindofToyStory_mid.mp4" expression="full" duration="1063" fileSize="283111818" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/749f/e581e559-c0e0-4cd5-9741-5d51ddc8749f/ADifferentKindofToyStory.mp4" length="66838031" type="video/mp4"></enclosure>
+      <dc:creator>Brian Sherwin</dc:creator>
+      <itunes:author>Brian Sherwin</itunes:author>
+      <slash:comments>0</slash:comments>
+    </item>                     
+    <item>
+      <title>Steve Sloka on Docker and Kubernetes | Codemash 2016</title>
+      <description><![CDATA[<p>Steve stopped by to explain Docker and Kubernetes. His explanation included a wonderful demonstration with a portable computer cluster and Minecraft! It was an awesome demo you have to see to believe. Enjoy!</p><ul><li><a title="Docker" href="https://www.docker.com/">Docker</a></li><li><a title="Kubernetes" href="http://kubernetes.io/">Kubernetes</a></li></ul> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Session:RSSView:e2537ae2906d470a9fb9a5af015b49e7">]]></description>
+      <comments>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2016/Steve-Sloka-on-Docker-and-Kubernetes</comments>
+      <itunes:summary>Steve stopped by to explain Docker and Kubernetes. His explanation included a wonderful demonstration with a portable computer cluster and Minecraft! It was an awesome demo you have to see to believe. Enjoy! DockerKubernetes</itunes:summary>
+      <itunes:duration>977</itunes:duration>
+      <link>https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2016/Steve-Sloka-on-Docker-and-Kubernetes</link>
+      <pubDate>Wed, 17 Feb 2016 21:37:10 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Events/Seth-on-the-Road/Codemash-2016/Steve-Sloka-on-Docker-and-Kubernetes</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/9426/b9ef1dbf-3725-4a1f-adbc-28b05db89426/SteveSlokaOnDockerKubernetes_220.jpg" height="220" width="165"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northcentralus.blob.core.windows.net/mfupload/e2537ae2906d470a9fb9a5af015b49e7/SteveSlokaOnDockerKubernetes.mp4" expression="full" duration="977" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/9426/b9ef1dbf-3725-4a1f-adbc-28b05db89426/SteveSlokaOnDockerKubernetes.mp3" expression="full" duration="977" fileSize="15633738" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/9426/b9ef1dbf-3725-4a1f-adbc-28b05db89426/SteveSlokaOnDockerKubernetes.mp4" expression="full" duration="977" fileSize="67792079" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/9426/b9ef1dbf-3725-4a1f-adbc-28b05db89426/SteveSlokaOnDockerKubernetes_high.mp4" expression="full" duration="977" fileSize="854236507" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/9426/b9ef1dbf-3725-4a1f-adbc-28b05db89426/SteveSlokaOnDockerKubernetes_mid.mp4" expression="full" duration="977" fileSize="276304218" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/9426/b9ef1dbf-3725-4a1f-adbc-28b05db89426/SteveSlokaOnDockerKubernetes.mp4" length="67792079" type="video/mp4"></enclosure>
+      <dc:creator>Steve Sloka</dc:creator>
+      <itunes:author>Steve Sloka</itunes:author>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Tools for Apache Cordova (TACO) - Connect(&quot;Live&quot;); // Q&amp;A | Connect Live</title>
+      <description><![CDATA[<p>Visual Studio is a comprehensive tool for building everything from modern, responsive websites, to corporate intranet portals or even cross-platform <a href="https://www.visualstudio.com/en-us/explore/cordova-vs">Apache Cordova apps</a>, all using web standards and your development skills with HTML, CSS, JavaScript or TypeScript&nbsp;languages.</p><p>This session will be your opportunity to do a live&nbsp;Q&amp;A with the Visual Studio product team that works on TACO (the Tools for Apache Cordova) and special guests from the Cordova community.</p><p><strong>Speakers:</strong></p><ul><li><strong>Ryan J. Salva</strong>, lead program manager for TACO and a Cordova contributor</li><li><strong>Jordan Matthiesen</strong>, a program manager on the TACO team</li><li><strong>Raymond Camden</strong>, Cordova contributor and member of the IBM MobileFirst team</li><li><strong>Carlos Sanata</strong>, Cordova contributor and member of the IBM MobileFirst team</li></ul><p>To read more about this, check out the <a href="http://microsoft.github.io/vstacoblog/2016/02/08/connect-live.html">Visual Studio TACO Blog</a>.</p><p><em>Moderated by Seth Juarez of Channel9</em></p><p>Please join us <strong>Feb 11th, at 10am PDT</strong>. See you then!</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Session:RSSView:fef4296e10064477b3fea5a7000e95a8">]]></description>
+      <comments>https://channel9.msdn.com/Events/Visual-Studio/Connect-Live/Tools-for-Apache-Cordova-TACO-ConnectLive--QA</comments>
+      <itunes:summary>Visual Studio is a comprehensive tool for building everything from modern, responsive websites, to corporate intranet portals or even cross-platform Apache Cordova apps, all using web standards and your development skills with HTML, CSS, JavaScript or TypeScript languages. This session will be your opportunity to do a live Q&amp;amp;A with the Visual Studio product team that works on TACO (the Tools for Apache Cordova) and special guests from the Cordova community. Speakers: Ryan J. Salva, lead program manager for TACO and a Cordova contributorJordan Matthiesen, a program manager on the TACO teamRaymond Camden, Cordova contributor and member of the IBM MobileFirst teamCarlos Sanata, Cordova contributor and member of the IBM MobileFirst teamTo read more about this, check out the Visual Studio TACO Blog. Moderated by Seth Juarez of Channel9 Please join us Feb 11th, at 10am PDT. See you then! </itunes:summary>
+      <itunes:duration>3654</itunes:duration>
+      <link>https://channel9.msdn.com/Events/Visual-Studio/Connect-Live/Tools-for-Apache-Cordova-TACO-ConnectLive--QA</link>
+      <pubDate>Tue, 09 Feb 2016 17:32:05 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Events/Visual-Studio/Connect-Live/Tools-for-Apache-Cordova-TACO-ConnectLive--QA</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/4150/6f5346e8-4639-4d6b-8ac2-47273b184150/TACOConnectLIVEQandA_220.jpg" height="220" width="165"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northcentralus.blob.core.windows.net/mfupload/fef4296e10064477b3fea5a7000e95a8/TACOConnectLIVEQandA.mp4" expression="full" duration="3654" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4150/6f5346e8-4639-4d6b-8ac2-47273b184150/TACOConnectLIVEQandA.mp3" expression="full" duration="3654" fileSize="58471601" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4150/6f5346e8-4639-4d6b-8ac2-47273b184150/TACOConnectLIVEQandA.mp4" expression="full" duration="3654" fileSize="180321443" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4150/6f5346e8-4639-4d6b-8ac2-47273b184150/TACOConnectLIVEQandA_high.mp4" expression="full" duration="3654" fileSize="1098055206" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/4150/6f5346e8-4639-4d6b-8ac2-47273b184150/TACOConnectLIVEQandA_mid.mp4" expression="full" duration="3654" fileSize="725616831" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/4150/6f5346e8-4639-4d6b-8ac2-47273b184150/TACOConnectLIVEQandA.mp4" length="180321443" type="video/mp4"></enclosure>
+      <dc:creator>Seth Juarez, Jordan Matthiesen, Ryan J. Salva, Raymond Camden, Carlos Santana</dc:creator>
+      <itunes:author>Seth Juarez, Jordan Matthiesen, Ryan J. Salva, Raymond Camden, Carlos Santana</itunes:author>
+      <slash:comments>0</slash:comments>
+      <category>JavaScript</category>
+      <category>Apache Cordova</category>
+      <category>mobile development</category>
+    </item>
+    <item>
+      <title>Top Ten Windows Server 2016 Features | System Center Universe 2016</title>
+      <description><![CDATA[<p><strong>Top Ten Windows Server 2016 Features</strong>, presented by John Savill, Windows Technical Specialist, SavillTech - Microsoft MVP</p> <img src="http://m.webtrends.com/dcs1wotjh10000w0irc493s0e_6x1g/njs.gif?dcssip=channel9.msdn.com&dcsuri=https://channel9.msdn.com/Feeds/RSS&WT.dl=0&WT.entryid=Session:RSSView:663215af96ec4d69901ea583016b1ae2">]]></description>
+      <comments>https://channel9.msdn.com/Events/System-Center/SCU-2016/SCU2016V01T01</comments>
+      <itunes:summary>Top Ten Windows Server 2016 Features, presented by John Savill, Windows Technical Specialist, SavillTech - Microsoft MVP </itunes:summary>
+      <itunes:duration>2950</itunes:duration>
+      <link>https://channel9.msdn.com/Events/System-Center/SCU-2016/SCU2016V01T01</link>
+      <pubDate>Mon, 04 Jan 2016 22:08:56 GMT</pubDate>
+      <guid isPermaLink="false">https://channel9.msdn.com/Events/System-Center/SCU-2016/SCU2016V01T01</guid>
+      <media:thumbnail url="http://video.ch9.ms/ch9/a133/db5e07e2-20a6-4bd9-9d4a-c1254459a133/SCU2016JohnSavill_220.jpg" height="220" width="165"></media:thumbnail>
+      <media:group>
+        <media:content url="http://ch9northcentralus.blob.core.windows.net/mfupload/663215af96ec4d69901ea583016b1ae2/SCU2016JohnSavill.mp4" expression="full" duration="2950" fileSize="1" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/a133/db5e07e2-20a6-4bd9-9d4a-c1254459a133/SCU2016JohnSavill.mp3" expression="full" duration="2950" fileSize="47205066" type="audio/mp3" medium="audio"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/a133/db5e07e2-20a6-4bd9-9d4a-c1254459a133/SCU2016JohnSavill.mp4" expression="full" duration="2950" fileSize="67763183" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/a133/db5e07e2-20a6-4bd9-9d4a-c1254459a133/SCU2016JohnSavill_high.mp4" expression="full" duration="2950" fileSize="375809673" type="video/mp4" medium="video"></media:content>
+        <media:content url="http://video.ch9.ms/ch9/a133/db5e07e2-20a6-4bd9-9d4a-c1254459a133/SCU2016JohnSavill_mid.mp4" expression="full" duration="2950" fileSize="230990945" type="video/mp4" medium="video"></media:content>
+      </media:group>
+      <enclosure url="http://video.ch9.ms/ch9/a133/db5e07e2-20a6-4bd9-9d4a-c1254459a133/SCU2016JohnSavill.mp4" length="67763183" type="video/mp4"></enclosure>
+      <dc:creator>John Savill</dc:creator>
+      <itunes:author>John Savill</itunes:author>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>
